@@ -545,6 +545,9 @@ get_project(
 setwd("nueva_carpeta")
 source("main.R")
 ```
+- Necesito ayuda para crear mas proyectos para America Latina, Europa, China y Estados Unidos!
+- Tengo todo, menos tiempo
+
 ]
 
 
@@ -564,10 +567,9 @@ source("main.R")
 - [![R build status](https://github.com/atmoschem/vein/workflows/ecuador_td_hot_month/badge.svg)](https://github.com/atmoschem/vein/actions)
 - [![R build status](https://github.com/atmoschem/vein/workflows/ecuador_td/badge.svg)](https://github.com/atmoschem/vein/actions)
 - [![R build status](https://github.com/atmoschem/vein/workflows/ecuador_td_im/badge.svg)](https://github.com/atmoschem/vein/actions)    
-]
 - [manizales_bu]()
-- Necesito ayuda para crear mas proyectos para America Latina, Europa, China y Estados Unidos!
-- Tengo todo, menos tiempo
+]
+
 
 ---
 ## WRF Chemi generado con `vein` y `eixport`
