@@ -635,3 +635,10 @@ get_project(directory = "manizales2017", case = "manizales_bu")
 setwd("manizales2017")
 source("main.R")
 ```
+
+---
+class: center, middle
+
+## Que tal aprender con un video?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OTlwjslYRx8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
